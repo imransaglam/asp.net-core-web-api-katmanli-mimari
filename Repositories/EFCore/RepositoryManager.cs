@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Repositories.EFCore
 {
-    public class RepositoryManger : IRepositoryManager
+    public class RepositoryManager : IRepositoryManager
     {
         private readonly RepositoryContext _context;
 
-        public RepositoryManger(RepositoryContext context)
+        public RepositoryManager(RepositoryContext context)
         {
             _context = context; 
         }

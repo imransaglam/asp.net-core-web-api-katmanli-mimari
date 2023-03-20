@@ -93,3 +93,7 @@ C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Enti
 C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Entities.pdb
 C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Repositories.dll
 C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Repositories.pdb
+C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Services.dll
+C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Services.pdb
+C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Presentation.dll
+C:\Users\ASUS\source\repos\basics\bsStoreApp\WebApiProject\bin\Debug\net6.0\Presentation.pdb
